@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinedu</h1>
 # 💫 About Me:
+
 - 🔭 I’m currently working on **my portfolio website**
 
 - 🌱 I’m currently learning **Nodejs**
