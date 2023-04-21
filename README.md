@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chinedu</h1>
 # 💫 About Me:
-telescope I’m currently working on my portfolio website<br><br>seedling I’m currently learning Nodejs<br><br>dancers I’m looking to collaborate on any project<br><br>man_technologist All of my projects are available at tagbo.dev<br><br>speech_balloon Ask me about Reactjs, Nextjs and Redux Toolkit<br><br>zap Fun fact I thrive in informally formal work spaces
+- 🔭 I’m currently working on **my portfolio website**
+
+- 🌱 I’m currently learning **Nodejs**
+
+- 👯 I’m looking to collaborate on **any project**
+
+- 👨‍💻 All of my projects are available at [tagbo.dev](tagbo.dev)
+
+- 💬 Ask me about **Reactjs, Nextjs and Redux Toolkit**
+
+- ⚡ Fun fact **I thrive in informally formal work spaces**
+
 
 
 ## 🌐 Socials:
